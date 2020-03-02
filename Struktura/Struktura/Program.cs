@@ -27,7 +27,7 @@ namespace Struktura
             Felvesz(fegyvertár, fegyver.ágyú);
             Eldob(fegyvertár, fegyver.ágyú);
             Eldob(fegyvertár, fegyver.puska);
-            Felvesz(fegyvertár, fegyver.ágyú); //HF
+            Felvesz(fegyvertár, fegyver.ágyú);
             Kilistáz(fegyvertár);
             Console.ReadKey();
         }
